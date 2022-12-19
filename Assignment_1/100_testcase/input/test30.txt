@@ -1,0 +1,15 @@
+init 0 k
+toString 0
+length 0
+get 0 2
+get 0 2
+get 0 0
+get 0 1
+get 0 1
+indexOf 0 L
+indexOf 0 S
+indexOf 0 u
+indexOf 0 Q
+indexOf 0 w
+indexOf 0 C
+delete 0

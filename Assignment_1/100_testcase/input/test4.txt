@@ -1,0 +1,14 @@
+init 0 953pyttbq1FIwjjUbZcz
+toString 0
+length 0
+get 0 2
+get 0 19
+indexOf 0 w
+indexOf 0 N
+indexOf 0 b
+indexOf 0 o
+indexOf 0 F
+indexOf 0 9
+indexOf 0 W
+indexOf 0 k
+delete 0

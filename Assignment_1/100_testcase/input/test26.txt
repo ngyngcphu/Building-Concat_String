@@ -1,0 +1,12 @@
+init 0 99APtZw2ZC2NnNyri
+toString 0
+length 0
+get 0 0
+get 0 3
+get 0 0
+get 0 5
+get 0 28
+get 0 30
+indexOf 0 x
+indexOf 0 T
+delete 0

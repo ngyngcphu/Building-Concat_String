@@ -1,0 +1,52 @@
+init 0 syFiiV
+init 1 ld
+init 2 zYc3B
+init 3 "empty_string"
+single_concat 4 2 1
+toString 4
+subString 5 2 4 1
+subString 6 0 4 2
+subString 7 4 2 3
+toString 7
+subString 8 7 1 0
+subString 9 7 0 1
+toString 9
+reverse 10 9
+toString 10
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

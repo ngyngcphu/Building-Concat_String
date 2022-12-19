@@ -1,0 +1,124 @@
+init 0 xBobE2R2
+init 1 kS
+init 2 LeBr9
+single_concat 3 0 1
+toString 3
+subString 4 2 4 4
+subString 5 0 7 1
+subString 6 0 2 8
+toString 6
+subString 7 6 6 1
+subString 8 6 1 3
+toString 8
+subString 9 0 1 1
+subString 10 2 5 4
+subString 11 6 4 1
+subString 12 3 1 1
+subString 13 6 1 5
+toString 13
+reverse 14 6
+toString 14
+reverse 15 1
+toString 15
+reverse 16 13
+toString 16
+reverse 17 15
+toString 17
+reverse 18 13
+toString 18
+reverse 19 16
+toString 19
+reverse 20 0
+toString 20
+reverse 21 6
+toString 21
+reverse 22 0
+toString 22
+reverse 23 17
+toString 23
+reverse 24 14
+toString 24
+reverse 25 17
+toString 25
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 25
+refCountsString
+totalRefCountsString
+delete 24
+refCountsString
+totalRefCountsString
+delete 23
+refCountsString
+totalRefCountsString
+delete 22
+refCountsString
+totalRefCountsString
+delete 21
+refCountsString
+totalRefCountsString
+delete 20
+refCountsString
+totalRefCountsString
+delete 19
+refCountsString
+totalRefCountsString
+delete 18
+refCountsString
+totalRefCountsString
+delete 17
+refCountsString
+totalRefCountsString
+delete 16
+refCountsString
+totalRefCountsString
+delete 15
+refCountsString
+totalRefCountsString
+delete 14
+refCountsString
+totalRefCountsString
+delete 13
+refCountsString
+totalRefCountsString
+delete 12
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

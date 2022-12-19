@@ -1,0 +1,17 @@
+init 0 mbPJvC
+toString 0
+length 0
+get 0 4
+get 0 2
+get 0 2
+indexOf 0 O
+indexOf 0 0
+indexOf 0 v
+indexOf 0 C
+indexOf 0 j
+indexOf 0 d
+indexOf 0 F
+indexOf 0 7
+indexOf 0 v
+indexOf 0 K
+delete 0

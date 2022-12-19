@@ -1,0 +1,19 @@
+Success
+If44Na9HMtO
+11
+Index of string is invalid!
+Index of string is invalid!
+N
+Index of string is invalid!
+9
+Index of string is invalid!
+-1
+10
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1

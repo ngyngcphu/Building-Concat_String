@@ -1,0 +1,72 @@
+init 0 tXRAFTfxeeZVuDK
+init 1 mvFw1x1J6q35o2syCj
+init 2 "empty_string"
+single_concat 3 2 0
+toString 3
+subString 4 0 0 9
+toString 4
+subString 5 2 0 0
+subString 6 3 4 3
+subString 7 4 3 1
+subString 8 1 5 7
+toString 8
+subString 9 8 0 1
+toString 9
+subString 10 3 8 13
+toString 10
+subString 11 0 12 4
+subString 12 3 6 9
+toString 12
+reverse 13 10
+toString 13
+reverse 14 12
+toString 14
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 14
+refCountsString
+totalRefCountsString
+delete 13
+refCountsString
+totalRefCountsString
+delete 12
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

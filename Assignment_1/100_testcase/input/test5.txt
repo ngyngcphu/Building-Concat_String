@@ -1,0 +1,8 @@
+init 0 K10nnY
+toString 0
+length 0
+get 0 3
+get 0 2
+indexOf 0 a
+indexOf 0 k
+delete 0

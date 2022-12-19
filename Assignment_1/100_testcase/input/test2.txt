@@ -1,0 +1,17 @@
+init 0 Tmbzss15v1EP
+toString 0
+length 0
+get 0 13
+get 0 20
+get 0 2
+get 0 6
+get 0 11
+get 0 3
+indexOf 0 Y
+indexOf 0 o
+indexOf 0 b
+indexOf 0 b
+indexOf 0 8
+indexOf 0 V
+indexOf 0 z
+delete 0

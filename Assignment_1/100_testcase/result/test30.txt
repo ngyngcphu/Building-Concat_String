@@ -1,0 +1,14 @@
+Success
+k
+1
+Index of string is invalid!
+Index of string is invalid!
+k
+Index of string is invalid!
+Index of string is invalid!
+-1
+-1
+-1
+-1
+-1
+-1

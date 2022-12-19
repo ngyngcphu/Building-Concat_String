@@ -1,0 +1,16 @@
+Success
+
+0
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+-1
+-1
+-1

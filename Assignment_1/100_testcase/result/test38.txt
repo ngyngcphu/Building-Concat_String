@@ -1,0 +1,16 @@
+Success
+fgUL8W
+6
+U
+Index of string is invalid!
+Index of string is invalid!
+f
+Index of string is invalid!
+W
+Index of string is invalid!
+-1
+-1
+-1
+-1
+-1
+-1

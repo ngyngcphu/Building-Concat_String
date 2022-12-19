@@ -1,0 +1,19 @@
+Success
+LW7sVoJy6Z
+10
+o
+y
+6
+7
+Index of string is invalid!
+L
+Index of string is invalid!
+Index of string is invalid!
+Index of string is invalid!
+1
+-1
+-1
+-1
+2
+-1
+-1

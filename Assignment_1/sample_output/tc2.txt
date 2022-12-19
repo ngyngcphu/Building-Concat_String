@@ -1,0 +1,4 @@
+s4: Hello,_this_is
+s5: Hello,_this_is_an_assignment
+s6: ,_this_is_
+s7: tnemngissa_na_si_siht_,olleH

@@ -1,0 +1,57 @@
+Success
+Success
+Success
+Success
+tXRAFTfxeeZVuDK
+Success
+tXRAFTfxe
+Index of string is invalid
+Invalid range
+Invalid range
+Success
+x1
+Success
+x
+Success
+eeZVu
+Invalid range
+Success
+fxe
+Success
+uVZee
+Success
+exf
+10
+0
+RefCounts[2,2,2,2,2,2,2,2,3,3]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,3,3,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,3,3,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,3,3,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,3,3,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,0,0,0,0,0,0,0]
+TotalRefCounts[4]
+RefCounts[2,2,0,0,0,0,0,0,0,0]
+TotalRefCounts[2]
+RefCounts[2,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2]
+RefCounts[]
+TotalRefCounts[]

@@ -1,0 +1,6 @@
+s1's length: 12
+char at index 2: l
+char at index 22: Exception out_of_range: Index of string is invalid!
+in s1, index of 'o': 4
+in s1, index of 'a': -1
+s1 toString: Hello,_world

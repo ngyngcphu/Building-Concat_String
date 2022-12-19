@@ -1,0 +1,45 @@
+Success
+Invalid range
+Invalid range
+Success
+TGrIX
+Invalid range
+Invalid range
+Invalid range
+Index of string is invalid
+Success
+XIrGT
+Success
+TGrIX
+Success
+TGrIX
+Success
+XIrGT
+6
+0
+RefCounts[2,2,2,2,2,2]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[]
+TotalRefCounts[]

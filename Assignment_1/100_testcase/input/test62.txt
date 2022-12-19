@@ -1,0 +1,80 @@
+init 0 h
+subString 1 0 0 1
+toString 1
+subString 2 0 1 0
+subString 3 0 1 0
+subString 4 0 1 0
+reverse 5 1
+toString 5
+reverse 6 1
+toString 6
+reverse 7 1
+toString 7
+reverse 8 1
+toString 8
+reverse 9 1
+toString 9
+reverse 10 5
+toString 10
+reverse 11 6
+toString 11
+reverse 12 10
+toString 12
+reverse 13 0
+toString 13
+reverse 14 8
+toString 14
+reverse 15 0
+toString 15
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 15
+refCountsString
+totalRefCountsString
+delete 14
+refCountsString
+totalRefCountsString
+delete 13
+refCountsString
+totalRefCountsString
+delete 12
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

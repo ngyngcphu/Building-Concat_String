@@ -1,0 +1,18 @@
+init 0 QZ4BUQiaBycnuGjP57
+toString 0
+length 0
+get 0 22
+get 0 33
+get 0 26
+get 0 29
+get 0 10
+get 0 24
+get 0 3
+get 0 26
+get 0 3
+indexOf 0 k
+indexOf 0 i
+indexOf 0 B
+indexOf 0 V
+indexOf 0 E
+delete 0

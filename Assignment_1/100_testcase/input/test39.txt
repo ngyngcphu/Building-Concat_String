@@ -1,0 +1,20 @@
+init 0 LW7sVoJy6Z
+toString 0
+length 0
+get 0 5
+get 0 7
+get 0 8
+get 0 2
+get 0 16
+get 0 0
+get 0 11
+get 0 12
+get 0 16
+indexOf 0 W
+indexOf 0 E
+indexOf 0 z
+indexOf 0 H
+indexOf 0 7
+indexOf 0 m
+indexOf 0 D
+delete 0

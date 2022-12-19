@@ -1,0 +1,79 @@
+init 0 tdhEePUXCNlucaRXm
+init 1 Bbinef0IImZxRbnSb
+init 2 w
+init 3 t5HB
+init 4 zXwOI0d
+single_concat 5 4 1
+toString 5
+single_concat 6 0 2
+toString 6
+subString 7 2 1 1
+subString 8 2 1 0
+subString 9 4 7 4
+subString 10 6 11 7
+subString 11 2 1 0
+reverse 12 3
+toString 12
+reverse 13 4
+toString 13
+reverse 14 13
+toString 14
+reverse 15 5
+toString 15
+reverse 16 6
+toString 16
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 16
+refCountsString
+totalRefCountsString
+delete 15
+refCountsString
+totalRefCountsString
+delete 14
+refCountsString
+totalRefCountsString
+delete 13
+refCountsString
+totalRefCountsString
+delete 12
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

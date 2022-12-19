@@ -1,0 +1,13 @@
+init 0 2m2h
+toString 0
+length 0
+get 0 8
+get 0 0
+get 0 5
+get 0 1
+indexOf 0 q
+indexOf 0 s
+indexOf 0 9
+indexOf 0 b
+indexOf 0 2
+delete 0

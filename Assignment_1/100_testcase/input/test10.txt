@@ -1,0 +1,21 @@
+init 0 bWRzWR3NCcGR8
+toString 0
+length 0
+get 0 14
+get 0 25
+get 0 11
+get 0 23
+get 0 16
+get 0 1
+get 0 11
+get 0 2
+get 0 23
+indexOf 0 C
+indexOf 0 v
+indexOf 0 4
+indexOf 0 z
+indexOf 0 A
+indexOf 0 E
+indexOf 0 4
+indexOf 0 b
+delete 0

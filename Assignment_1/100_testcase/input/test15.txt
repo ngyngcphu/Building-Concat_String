@@ -1,0 +1,11 @@
+init 0 "empty_string"
+toString 0
+length 0
+get 0 19
+get 0 18
+get 0 6
+get 0 24
+indexOf 0 K
+indexOf 0 m
+indexOf 0 l
+delete 0

@@ -1,0 +1,11 @@
+RefCounts[3,3]
+TotalRefCounts[]
+---After deleting s1---
+RefCounts[1,3]
+TotalRefCounts[1]
+---After deleting s3---
+RefCounts[2,0]
+TotalRefCounts[2]
+---After deleting s2---
+RefCounts[]
+TotalRefCounts[]

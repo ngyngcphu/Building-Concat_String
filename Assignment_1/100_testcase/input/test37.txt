@@ -1,0 +1,16 @@
+init 0 zmCggBWBFZcgLFoALD4
+toString 0
+length 0
+get 0 32
+get 0 17
+get 0 26
+get 0 8
+get 0 30
+get 0 23
+get 0 21
+indexOf 0 X
+indexOf 0 T
+indexOf 0 Z
+indexOf 0 I
+indexOf 0 D
+delete 0

@@ -1,0 +1,110 @@
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+Success
+C2ylwdcUGoiemHZhdTjTaw
+Success
+K7dVe7XCJ1omJGQD1Gsn
+Success
+00yKCiXoeAEuNfFeiVZWpGP
+Success
+C
+Success
+2ylwdc
+Invalid range
+Success
+7d
+Success
+AEuNfFeiVZ
+Invalid range
+Invalid range
+Invalid range
+Index of string is invalid
+Success
+dc
+Index of string is invalid
+Index of string is invalid
+Success
+CJ
+Invalid range
+Invalid range
+Invalid range
+Success
+8p
+Invalid range
+Success
+waTjTdhZHmeioGUcdwly2C
+Success
+eioGUcdwly2C
+Success
+waTjTdhZHm
+18
+0
+RefCounts[1,1,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3]
+TotalRefCounts[]
+RefCounts[1,1,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,0]
+TotalRefCounts[]
+RefCounts[1,1,2,2,2,2,2,2,2,2,3,3,3,3,3,3,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,3,3,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[]
+RefCounts[2,2,2,3,3,3,3,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[4]
+RefCounts[2,2,2,2,2,3,3,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[4,4]
+RefCounts[2,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[4,4,4]
+RefCounts[2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2,4,4]
+RefCounts[2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2,4,2]
+RefCounts[2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[4,2]
+RefCounts[2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2,2]
+RefCounts[2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2]
+RefCounts[2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
+TotalRefCounts[2]
+RefCounts[]
+TotalRefCounts[]

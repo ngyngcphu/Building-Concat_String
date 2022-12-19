@@ -1,0 +1,18 @@
+init 0 mLIPHmOIEPlOqCh
+toString 0
+length 0
+get 0 15
+get 0 12
+get 0 21
+get 0 22
+get 0 11
+get 0 29
+get 0 9
+get 0 23
+indexOf 0 o
+indexOf 0 x
+indexOf 0 W
+indexOf 0 2
+indexOf 0 k
+indexOf 0 d
+delete 0

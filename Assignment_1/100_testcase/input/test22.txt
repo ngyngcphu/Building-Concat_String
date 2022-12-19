@@ -1,0 +1,15 @@
+init 0 plcQazybl
+toString 0
+length 0
+get 0 1
+get 0 6
+get 0 8
+get 0 1
+get 0 5
+get 0 1
+indexOf 0 T
+indexOf 0 h
+indexOf 0 l
+indexOf 0 P
+indexOf 0 m
+delete 0

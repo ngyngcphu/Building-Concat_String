@@ -1,0 +1,57 @@
+init 0 TGrIXKEj
+subString 1 0 7 1
+subString 2 0 6 3
+subString 3 0 0 5
+toString 3
+subString 4 3 3 3
+subString 5 3 1 1
+subString 6 3 3 0
+subString 7 0 8 5
+reverse 8 3
+toString 8
+reverse 9 8
+toString 9
+reverse 10 8
+toString 10
+reverse 11 9
+toString 11
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString

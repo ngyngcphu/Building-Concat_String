@@ -1,0 +1,20 @@
+init 0 nBj
+toString 0
+length 0
+get 0 2
+get 0 2
+get 0 4
+get 0 6
+get 0 6
+get 0 5
+get 0 5
+indexOf 0 R
+indexOf 0 9
+indexOf 0 n
+indexOf 0 r
+indexOf 0 u
+indexOf 0 O
+indexOf 0 D
+indexOf 0 N
+indexOf 0 e
+delete 0

@@ -1,0 +1,150 @@
+init 0 QjLUHcEY5SWggtQnC
+init 1 u4YwI5Q57iM2fnvT32
+init 2 nOFSUxH
+init 3 IVzMf4c3E0XlW
+init 4 t9PNA2GzhxI
+init 5 MF
+init 6 KHLYfh2svbodnr
+init 7 jyJx098tf
+init 8 SvRDP72O70fpVm7u6QKQ
+init 9 "empty_string"
+init 10 lIWh
+init 11 v9GaEeocVFLTr03i
+init 12 iY1
+single_concat 13 5 0
+toString 13
+single_concat 14 1 12
+toString 14
+single_concat 15 4 10
+toString 15
+subString 16 6 6 0
+subString 17 0 3 8
+toString 17
+subString 18 10 1 0
+subString 19 6 11 4
+subString 20 2 4 0
+subString 21 10 4 4
+subString 22 11 3 2
+subString 23 0 14 15
+toString 23
+reverse 24 0
+toString 24
+reverse 25 3
+toString 25
+reverse 26 23
+toString 26
+reverse 27 7
+toString 27
+reverse 28 11
+toString 28
+reverse 29 7
+toString 29
+reverse 30 29
+toString 30
+reverse 31 28
+toString 31
+reverse 32 12
+toString 32
+length refList
+length delStrList
+refCountsString
+totalRefCountsString
+delete 32
+refCountsString
+totalRefCountsString
+delete 31
+refCountsString
+totalRefCountsString
+delete 30
+refCountsString
+totalRefCountsString
+delete 29
+refCountsString
+totalRefCountsString
+delete 28
+refCountsString
+totalRefCountsString
+delete 27
+refCountsString
+totalRefCountsString
+delete 26
+refCountsString
+totalRefCountsString
+delete 25
+refCountsString
+totalRefCountsString
+delete 24
+refCountsString
+totalRefCountsString
+delete 23
+refCountsString
+totalRefCountsString
+delete 22
+refCountsString
+totalRefCountsString
+delete 21
+refCountsString
+totalRefCountsString
+delete 20
+refCountsString
+totalRefCountsString
+delete 19
+refCountsString
+totalRefCountsString
+delete 18
+refCountsString
+totalRefCountsString
+delete 17
+refCountsString
+totalRefCountsString
+delete 16
+refCountsString
+totalRefCountsString
+delete 15
+refCountsString
+totalRefCountsString
+delete 14
+refCountsString
+totalRefCountsString
+delete 13
+refCountsString
+totalRefCountsString
+delete 12
+refCountsString
+totalRefCountsString
+delete 11
+refCountsString
+totalRefCountsString
+delete 10
+refCountsString
+totalRefCountsString
+delete 9
+refCountsString
+totalRefCountsString
+delete 8
+refCountsString
+totalRefCountsString
+delete 7
+refCountsString
+totalRefCountsString
+delete 6
+refCountsString
+totalRefCountsString
+delete 5
+refCountsString
+totalRefCountsString
+delete 4
+refCountsString
+totalRefCountsString
+delete 3
+refCountsString
+totalRefCountsString
+delete 2
+refCountsString
+totalRefCountsString
+delete 1
+refCountsString
+totalRefCountsString
+delete 0
+refCountsString
+totalRefCountsString
